@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chriscorsi/Desktop/entrepreneur/androidDev/androidSDK/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-9a7c7a607ff9c400e7e2d66da30f4f6a8a5c2d95.jar" />
+    </item>
+    <item
+        jar="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/classes-1b2900f58765ebc6c674649f7ab21fad6f16a243.jar" />
+    </item>
+    <item
+        jar="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/classes-a708e9c87ef4e445e4184118a997c8ca1f28d7e9.jar" />
+    </item>
+    <item
+        jar="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-0c8de632e6bcc58dac3f933e48e451befebf1c32.jar" />
+    </item>
+    <item
+        jar="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/classes-485417c2267f2f1037129138b2c4482bd667b54d.jar" />
+    </item>
+    <item
+        jar="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/classes-227e8a01385ff961afd10c328cb946001dc72e8b.jar" />
+    </item>
+    <item
+        jar="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/chriscorsi/Desktop/android-Camera2Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-f68680b85d4b2aadad0bfd25aa9a3fbb0cc07cd7.jar" />
+    </item>
+
+</items>
