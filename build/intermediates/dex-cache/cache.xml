@@ -2,53 +2,67 @@
 <items version="2" >
 
     <item
-        jar="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.rmtheis/tess-two/5.4.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/classes-0897b0025f72d369b291cf3c70f3aa9e359150b4.jar" />
+        sha1="921b1c4306b10e7de53574523eb7f7144bd0707f">
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/classes-02bb31c4c9a1148b7499f11790fdb0377333a60c.jar" />
     </item>
     <item
-        jar="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-141d65dd8f8abee508cab5cc7973c374ca809050.jar" />
-    </item>
-    <item
-        jar="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/classes-9197de2eadd2e9a15ac7bf6266c0e9ba8ca5cfaa.jar" />
-    </item>
-    <item
-        jar="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/classes-982ab78691c5d7cd96f5b3838943c2f76ed2efe6.jar" />
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/classes-435d32fc75dd0704dd8335bceaee5079137d00bb.jar" />
     </item>
     <item
-        jar="/Users/chriscorsi/Desktop/entrepreneur/androidDev/androidSDK/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jar="/Users/Ryan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-9a7c7a607ff9c400e7e2d66da30f4f6a8a5c2d95.jar" />
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-80f29d24139af956f7a555e2221ce146af04aa56.jar" />
     </item>
     <item
-        jar="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/SudokuApp.libraries/tess-two/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1aabea47bf68fa07faa48516d64299ac9afc8a6">
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/classes-6f8ef140d2285540c1ba1c85e7728927e6a1842d.jar" />
+    </item>
+    <item
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-363199d97bcadaeaf3bffe9292a329f8d1ed0c0f.jar" />
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-4c2ac48ffec192b857eceb5979903dca10b8260b.jar" />
     </item>
     <item
-        jar="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Users/chriscorsi/Desktop/git/SudokuApp2/Application/build/intermediates/pre-dexed/debug/classes-2def0e91fbc44287a347905179a53ff784637db4.jar" />
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/classes-32a27f3a5eb1f4129b4873b202dd26eeaa7e865d.jar" />
+    </item>
+    <item
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-9b4eea9110678136802670162623ff95ad941eaa.jar" />
+    </item>
+    <item
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/classes-bbf319062c8d0abc367ada6bdf746d9478e7d38f.jar" />
+    </item>
+    <item
+        jar="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Ryan/StudioProjects/SudokuApp/Application/build/intermediates/pre-dexed/debug/classes-e2d1f8673839f8dcbf9105cd514a8da2069f3b84.jar" />
     </item>
 
 </items>
