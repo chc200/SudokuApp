@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+//test
 package com.example.android.camera2basic;
 
 import android.app.Activity;
